@@ -9,11 +9,17 @@ Paste in your text and press the analyse button..
 Fork the repository.
 Run 'npm install'
 
-## Add another function
-See the ISSUES section.
+## TO run
+Type
+`npm run dev`
+this will open the site in a browser
 
-Add a function to the javascript file
-Test it works in your browser
-Make a pull request
+## Add another function
+Add a function `src/js/modules/`
+See the ISSUES section for ideas.
+
+## Pull reqeusts
+Please only make small pull requests - one feature at a time.
+Only simple javascript, no more than 5-10 lines each update.
 
 
