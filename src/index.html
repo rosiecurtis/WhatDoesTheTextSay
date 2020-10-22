@@ -1,0 +1,55 @@
+
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>What Does The Text Say?</title>
+
+</head>
+
+<body>
+
+  <nav>
+    <div class="nav-container">
+      <div class="nav-logo">
+        <a href="/">What does the Text Say?</a>
+      </div>
+      <ul class="nav-links">
+        <li><a class="active" href="#">Analyse</a></li>
+        <li><a href="#">GitHub</a></li>
+        <li><a href="#">About</a></li>
+      </ul>
+    </div>
+  </nav>
+
+
+  <article class="container">
+
+    <h1>Hello!</h1>
+
+    <div class="form-control">
+      <label for="userText">Enter your text</label>
+      <textarea name="userText" id="userText" cols="30" rows="5"></textarea>
+    </div>
+
+    <select id="myList">
+      <option value="default" selected disabled>Choose an option..</option>
+      <option value="countChars">Count characters</option>
+      <option value="countVowels">Count Vowels</option>
+
+    </select>
+
+    <div class="row"></div>
+    <button id="btnAnalyse" class="button-primary">Analyse</button>
+
+    <div id="result"></div>
+  </article>
+
+
+  <script src="./js/index.js"></script>
+
+</body>
+
+</html>

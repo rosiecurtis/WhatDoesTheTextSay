@@ -1,0 +1,21 @@
+{
+  "name": "words",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dompurify": "^2.2.0",
+    "modules": "^0.4.0",
+    "mustard-ui": "^1.0.4"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "author": "",
+  "license": "ISC"
+}
