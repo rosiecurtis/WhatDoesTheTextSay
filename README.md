@@ -8,15 +8,16 @@ A web app that displays information about user supplied text.
 Paste in your text and press the analyse button.. 
 
 ## How to install on your machine for development?
-Fork the repository.
-Run 'npm install'
+Fork the repository and download to your machine.
 
-## TO run
+Run `npm install`
+
+## To run it
 Type
 `npm run dev`
-this will open the site in a browser
+this will open the site in a browser. If the borswer doesn't open, click the link the console (e.g. localhost:1234 )
 
-## Add another function
+## Add another function to the code..
 Add a function `src/js/modules/`
 See the ISSUES section for ideas.
 
