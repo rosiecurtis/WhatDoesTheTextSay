@@ -2,6 +2,8 @@
 
 A web app that displays information about user supplied text.
 
+![screenshot](app.png?raw=true "screenshot")
+
 ## How to use it?
 Paste in your text and press the analyse button.. 
 
