@@ -15,7 +15,7 @@ Run `npm install`
 ## To run it
 Type
 `npm run dev`
-this will open the site in a browser. If the borswer doesn't open, click the link the console (e.g. localhost:1234 )
+this will open the site in a browser. If the browser doesn't open, click the link the console (e.g. localhost:1234 )
 
 ## Add another function to the code..
 Add a function `src/js/modules/`
